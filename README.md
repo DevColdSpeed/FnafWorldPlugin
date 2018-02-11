@@ -1,6 +1,5 @@
 # FnafWorldPlugin
-   <img src="https://img.shields.io/circleci/project/github/badges/shields.svg"
-            alt="build status"></a>    <a href="https://github.com/badges/shields/commits/gh-pages">
+   <img src="https://img.shields.io/circleci/project/github/badges/shields.svg" 
 ~~~
 This is a plugin for fun & adventure & to expand for awhile you
 need to level up your fnaf team & there is no edting unless
