@@ -24,4 +24,4 @@ Gmail: devcoldspeed@gmail.com
 ~~~
 If you looking to join our team then you gonna need
 To go to these forms & see if we approve, you
-response ***[_MUST HAVE DISCORD_]**
+response /**[_MUST HAVE DISCORD_]**/
