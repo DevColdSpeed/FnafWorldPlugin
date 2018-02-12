@@ -14,7 +14,20 @@ FNAF Shop UI (Power up & more) (People in-game of this plugin sell it)
 Characters begin made for begining (Freddy,Chica,Bonnie,Foxy),(New Freddy,New Bonnie,New Chica,New Mangle)
 Custom Textures
 ~~~
+# Bugs
+~~~
+
+~~~
+# Update's
+~~~
+
+~~~
 ---
+#Copyright
+~~~
+[]
+~~~
+
 # Contact Dev's
 ~~~
 Twitter: @DevCold
