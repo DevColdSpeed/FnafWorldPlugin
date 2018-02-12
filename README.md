@@ -23,10 +23,9 @@ Custom Textures
 
 ~~~
 ---
-#Copyright
-~~~
-[]
-~~~
+# Copyright
+
+[License](https://github.com/DevColdSpeed/FnafWorldPlugin/blob/master/License)
 
 # Contact Dev's
 ~~~
