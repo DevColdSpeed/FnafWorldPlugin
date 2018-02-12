@@ -1,6 +1,8 @@
 # FnafWorldPlugin
 <img src="https://img.shields.io/circleci/project/github/badges/shields.svg"
-            alt="build status"></a>
+alt="build status"></a>
+
+![](Images/download.jpg)
 ~~~
 This is a plugin for fun & adventure & to expand for awhile you
 need to level up your fnaf team & there is no edting unless
@@ -20,9 +22,9 @@ Custom Textures
 ~~~
 # Update's
 ~~~
-*Config.yml Created
-*Main's Created
-*Plugin.yml Created
+*Images Folder Created
+*Added Image
+*Updated ReadMe
 ~~~
 ---
 # Copyright
