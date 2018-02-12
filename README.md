@@ -21,6 +21,8 @@ Custom Textures
 # Update's
 ~~~
 *Config.yml Created
+*Main's Created
+*Plugin.yml Created
 ~~~
 ---
 # Copyright
