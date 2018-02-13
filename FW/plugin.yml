@@ -1,1 +1,50 @@
+name: FNAFWorldPlugin
+main: src\fvillie\FWmain
+version: 1.0.0
+api: [3.0.0-APLHA7, 3.0.0-APLHA8, 3.0.0-APLHA9, 3.0.0-APLHA10]
 
+load: POSTWORLD
+author: TeamConder
+description: This, is a plugin for funness and joy to thoses who like mcpe and fnaf togather.
+website: https://github.com/DevColdSpeed/FnafWorldPlugin
+commands:
+ Create:
+  description: Create Team
+  usage: 'Usage /fw create'
+  permmissions: fnafworldplugin.command.create
+ Del:
+  description: Delete's your Team
+  usage: 'Usage /fw del'
+  permmissions: fnafworldplugin.command.del
+ Ui:
+  description: Opens your team selcter to make your begining teams
+  usage: 'Usage /fw fnafopen'
+  permmissions: fnafworldplugin.command.ui
+ DailyRewards:
+  description: Gives you 20 faz tokens every 24 hours
+  usage: 'Usage /fw claim'
+  permmissions: fnafworldplugin.command.reward
+ Join:
+  description: Joins your fnaf world
+  usage: 'Usage /fw join'
+  permmissions: fnafworldplugin.command.join
+permmissions:
+  fnafworldplugin.command.create
+  description: 'Allows users to create there own fnaf world'
+  default: true
+
+  fnafworldplugin.command.del
+  description: 'Allows users to Delete there own fnaf world'
+  default: true
+
+   fnafworldplugin.command.ui
+   description: 'Allows users to open and switch people'
+   default: true
+
+   fnafworldplugin.command.reward
+   description: 'Allows users to get 20 faz tokens every 24 hours'
+   default: true
+
+   fnafworldplugin.command.join
+   description: 'Allows users to join there own world'
+   default: true
