@@ -27,7 +27,7 @@ Added Plugin.yml updation
 ---
 # Copyright
 
-[License](https://github.com/DevColdSpeed/FnafWorldPlugin/blob/master/License) ©
+[License](https://github.com/DevColdSpeed/FnafWorldPlugin/blob/master/License) *_©_*
 
 # Contact Dev's
 ~~~
