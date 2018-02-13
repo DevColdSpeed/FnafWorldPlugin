@@ -30,8 +30,9 @@ Added Plugin.yml updation
 [License](https://github.com/DevColdSpeed/FnafWorldPlugin/blob/master/License) *_©_*
 
 # Contact Dev's
-~~~
+
 Twitter: [@DevCold](https://twitter.com/DevCold)
+~~~
 Gmail: devcoldspeed@gmail.com
 Discord: WolfeyPLayz#8031
 ~~~
