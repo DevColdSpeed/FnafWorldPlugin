@@ -22,9 +22,7 @@ Custom Textures
 ~~~
 # Update's
 ~~~
-*Images Folder Created
-*Added Image
-*Updated ReadMe
+
 ~~~
 ---
 # Copyright
@@ -33,8 +31,9 @@ Custom Textures
 
 # Contact Dev's
 ~~~
-Twitter: @DevCold
+Twitter: [@DevCold](https://twitter.com/DevCold)
 Gmail: devcoldspeed@gmail.com
+Discord: WolfeyPLayz#8031
 ~~~
 # Application
 ~~~
