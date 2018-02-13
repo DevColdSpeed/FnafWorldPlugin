@@ -22,7 +22,7 @@ Custom Textures
 ~~~
 # Update's
 ~~~
-
+Added Plugin.yml updation
 ~~~
 ---
 # Copyright
