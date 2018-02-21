@@ -1,0 +1,6 @@
+name: FnafWorld
+description: For a fnaf fun gane
+author: DevCold
+main: FnafWolrd\FnafWolrd
+version: "1.0.1"
+api: [3.0.0-ALPHA11, 3.0.0-ALPHA10]
