@@ -21,7 +21,8 @@ Custom Textures
 ~~~
 # Update's
 ~~~
-Added Plugin.yml updation
+Custom Models Started Created (PARTLY)
+(IN PROGRESS 5%)
 ~~~
 ---
 # Copyright
@@ -39,6 +40,6 @@ Discord: WolfeyPLayz#8031
 ~~~
 If you looking to join our team then you gonna need
 To go to these forms & see if we approve, you
-response \[MUST HAVE DISCORD]/
+response ***\[MUST HAVE DISCORD]/***
 ~~~
 [Forms](https://docs.google.com/forms/d/1y_om9FFC1BkhUULrfAF9rjHup3pILsV8O_FLohJTl9g/prefill)
